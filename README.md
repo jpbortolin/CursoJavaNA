@@ -1,5 +1,5 @@
 # Curso Java 💻📚
-Este repositório contém meus exercícios e anotações do curso Java COMPLETO - Programação Orientada a Objetos + Projetos da Udemy. Durante o curso, vou aprender e aprofundar meus conhecimentos em Java, desde os fundamentos até tópicos avançados, aplicando boas práticas e construindo projetos reais.
+Este repositório contém meus exercícios e anotações do curso Java do professor Nélio Alves. Durante o curso, vou aprender e aprofundar meus conhecimentos em Java, desde os fundamentos até tópicos avançados, aplicando boas práticas e construindo projetos reais.
 
 <br/>
 
