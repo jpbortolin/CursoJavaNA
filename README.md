@@ -1,2 +1,68 @@
-# CursoJavaNA
-Este repositório contém exercícios do curso de Java do professor Nélio Alves. O objetivo é consolidar os conceitos aprendidos, praticar a lógica de programação e desenvolver habilidades essenciais com a linguagem Java. 
+# Curso Java 💻📚
+Este repositório contém meus exercícios e anotações do curso Java COMPLETO - Programação Orientada a Objetos + Projetos da Udemy. Durante o curso, vou aprender e aprofundar meus conhecimentos em Java, desde os fundamentos até tópicos avançados, aplicando boas práticas e construindo projetos reais.
+
+<br/>
+
+### 📌 Conteúdo do curso
+
+🔹 Fundamentos do Java:
+
+✔️ Sintaxe básica e primeiros programas;
+
+✔️ Tipos de dados, variáveis e operadores;
+
+✔️ Estruturas condicionais e de repetição;
+
+✔️ Arrays e manipulação de coleções.
+
+<br/>
+<br/>
+
+🔹 Programação Orientada a Objetos (OOP):
+
+✔️ Classes, objetos e métodos;
+
+✔️ Encapsulamento, herança e polimorfismo;
+
+✔️ Interfaces e classes abstratas;
+
+✔️ Manipulação de exceções.
+
+<br/>
+<br/>
+
+🔹 Trabalhando com Dados e Estruturas Avançadas:
+
+✔️ Coleções (List, Set, Map);
+
+✔️ Manipulação de arquivos;
+
+✔️ Expressões lambda e programação funcional;
+
+✔️ Streams e manipulação de dados.
+
+<br/>
+<br/>
+
+🔹 Banco de Dados e APIs:
+
+✔️ JDBC e conexão com banco de dados;
+
+✔️ ORM com JPA e Hibernate;
+
+✔️ Criação e consumo de APIs REST com Spring Boot.
+
+<br/>
+<br/>
+
+🔹 Desenvolvimento de Projetos Práticos:
+
+✔️ Aplicações desktop com JavaFX;
+
+✔️ Desenvolvimento web com Spring Boot;
+
+✔️ Boas práticas e padrões de projeto.
+
+<br/>
+
+### Este repositório será atualizado conforme avanço no curso! 🚀
